@@ -45,7 +45,7 @@ body {
     max-width: 412px;
     padding: 32px;
     border-radius: 30px;
-    background-image: radial-gradient(ellipse at top, #232A34 5%, #181E27 100%);
+    background-image: linear-gradient(135deg, #232A34, #181E27);
 
 }
 
